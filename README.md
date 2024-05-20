@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JustCh3cco-19 or you can call me Francesco :)
+- 👋 Hi, I’m @JustCh3cco or you can call me Francesco :)
 - 👀 I’m interested in programming, artificial intelligence (deep learning, machine learning), Formula 1 CS applications
 - 🌱 I’m currently learning Computer Science and working in ADAS Department for https://www.linkedin.com/company/fast-charge/
 - 📫 How to reach me on Linkedin at: https://www.linkedin.com/in/francesco-zompanti/
